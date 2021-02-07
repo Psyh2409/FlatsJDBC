@@ -1,6 +1,6 @@
 # FlatsJDBC
 ## 1. Description
-#### Project is a demo of usage Java core libraries and low level data cource with JDBC technology for connecting to MySQL database.
+#### Project is a demo of usage Java core libraries and low level data source with JDBC technology for connecting to MySQL database.
 ## 2. Technologies
 - Java 7
 - Maven 3.6.0
